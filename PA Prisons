@@ -1,1 +1,30 @@
-kjbdjbfjsdbf
+Prison Release Data: PA 
+Reporter: Deesarine Ballayan 
+
+
+
+6 August 2024
+
+
+What Are We Trying To Do? :  Obtain release data from PA prisons throguh RTK that tells use the number of people with 
+records in Philadelphia with a focus on the Germantown neighborhood. We want to know the amount of people that could be
+helped by the Pardons Hub. Julie also wants to start collecting the data now because everywhere we turned didn't have 
+solid informtation on the topic.
+
+What Happened:  We received it ! But it makes no sense and needs some cleaning. I sent an email to Kim Grant,the person 
+that sent the data, and asked if she had some sort of meta data or data dictionary to help me better understand the 
+information. Julie says from the time they send the information you have 30 days after that to ask as many questions 
+as you need about the data because to them they've already fufilled the RTK. 
+
+What's Next: Data needs to be cleaned but before that we have to know what this stuff means. I have many questions 
+for MS. Grant 
+- What does location temporary mean ?
+     * If you're on parole do you have to live somewhere specfic or can you go back to the county or city you 
+lived in before you were imprisoned?
+     * is it a county, city, beginning of an address? 
+- What does permenant location mean? 
+I also have questions for Julie
+- How do you know the data is clean? 
+We discusseed this vaguewly but Julie is making me a list of things to see if list is clean but see if there are any 
+irregularities for example in the city collumn of the data sometimes it says PHILA or PHILADELPHIA we need to clean that
+so that R recognizes these as the same. 
